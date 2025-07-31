@@ -1,0 +1,541 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\TEMP.VALEN.000\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\TEMP.VALEN.000\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\TEMP.VALEN.000\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\TEMP.VALEN.000\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\TEMP.VALEN.000\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\TEMP.VALEN.000\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\TEMP.VALEN.000\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\TEMP.VALEN.000\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\TEMP.VALEN.000\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\TEMP.VALEN.000\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\TEMP.VALEN.000\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\TEMP.VALEN.000\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\TEMP.VALEN.000\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\TEMP.VALEN.000\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\TEMP.VALEN.000\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\TEMP.VALEN.000\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\TEMP.VALEN.000\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\TEMP.VALEN.000\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\TEMP.VALEN.000\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\TEMP.VALEN.000\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\TEMP.VALEN.000\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\TEMP.VALEN.000\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\TEMP.VALEN.000\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\TEMP.VALEN.000\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\TEMP.VALEN.000\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\TEMP.VALEN.000\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\TEMP.VALEN.000\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\TEMP.VALEN.000\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\TEMP.VALEN.000\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\TEMP.VALEN.000\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\TEMP.VALEN.000\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\TEMP.VALEN.000\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\TEMP.VALEN.000\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\TEMP.VALEN.000\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\TEMP.VALEN.000\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\TEMP.VALEN.000\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\TEMP.VALEN.000\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\TEMP.VALEN.000\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\TEMP.VALEN.000\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\TEMP.VALEN.000\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\TEMP.VALEN.000\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\TEMP.VALEN.000\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\TEMP.VALEN.000\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\TEMP.VALEN.000\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\TEMP.VALEN.000\\source\\repos\\drippinlab2\\Drippin\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Drippin.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Drippin.ywuq4xsgm6.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\TEMP.VALEN.000\\source\\repos\\drippinlab2\\Drippin\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\TEMP.VALEN.000\\source\\repos\\drippinlab2\\Drippin\\wwwroot\\css\\swiper.css",
+      "PackagePath": "staticwebassets\\css\\swiper.css"
+    },
+    {
+      "Id": "C:\\Users\\TEMP.VALEN.000\\source\\repos\\drippinlab2\\Drippin\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\TEMP.VALEN.000\\source\\repos\\drippinlab2\\Drippin\\wwwroot\\images\\02af3ed2-8d10-45e2-bcf8-0642da3bdc3d.png",
+      "PackagePath": "staticwebassets\\images\\02af3ed2-8d10-45e2-bcf8-0642da3bdc3d.png"
+    },
+    {
+      "Id": "C:\\Users\\TEMP.VALEN.000\\source\\repos\\drippinlab2\\Drippin\\wwwroot\\images\\07dc5010-0385-4b26-b94b-a021c944db6a.jpg",
+      "PackagePath": "staticwebassets\\images\\07dc5010-0385-4b26-b94b-a021c944db6a.jpg"
+    },
+    {
+      "Id": "C:\\Users\\TEMP.VALEN.000\\source\\repos\\drippinlab2\\Drippin\\wwwroot\\images\\226856bd-ff53-4ed8-bb10-6d9c32b1b0e8.jpg",
+      "PackagePath": "staticwebassets\\images\\226856bd-ff53-4ed8-bb10-6d9c32b1b0e8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\TEMP.VALEN.000\\source\\repos\\drippinlab2\\Drippin\\wwwroot\\images\\2429d14d-7340-498f-b37e-7ca43f4c1a5b.jpg",
+      "PackagePath": "staticwebassets\\images\\2429d14d-7340-498f-b37e-7ca43f4c1a5b.jpg"
+    },
+    {
+      "Id": "C:\\Users\\TEMP.VALEN.000\\source\\repos\\drippinlab2\\Drippin\\wwwroot\\images\\39bfa849-5f48-4f2d-98fa-1242b61b313d.jpg",
+      "PackagePath": "staticwebassets\\images\\39bfa849-5f48-4f2d-98fa-1242b61b313d.jpg"
+    },
+    {
+      "Id": "C:\\Users\\TEMP.VALEN.000\\source\\repos\\drippinlab2\\Drippin\\wwwroot\\images\\3b79cd85-24b8-427b-834b-2631176d0b39.png",
+      "PackagePath": "staticwebassets\\images\\3b79cd85-24b8-427b-834b-2631176d0b39.png"
+    },
+    {
+      "Id": "C:\\Users\\TEMP.VALEN.000\\source\\repos\\drippinlab2\\Drippin\\wwwroot\\images\\4d50c3d9-257f-4231-9972-04a7e17c4188.png",
+      "PackagePath": "staticwebassets\\images\\4d50c3d9-257f-4231-9972-04a7e17c4188.png"
+    },
+    {
+      "Id": "C:\\Users\\TEMP.VALEN.000\\source\\repos\\drippinlab2\\Drippin\\wwwroot\\images\\6be3cafe-9c76-433d-8e38-461492f56e6b.png",
+      "PackagePath": "staticwebassets\\images\\6be3cafe-9c76-433d-8e38-461492f56e6b.png"
+    },
+    {
+      "Id": "C:\\Users\\TEMP.VALEN.000\\source\\repos\\drippinlab2\\Drippin\\wwwroot\\images\\aura.png",
+      "PackagePath": "staticwebassets\\images\\aura.png"
+    },
+    {
+      "Id": "C:\\Users\\TEMP.VALEN.000\\source\\repos\\drippinlab2\\Drippin\\wwwroot\\images\\campera.png",
+      "PackagePath": "staticwebassets\\images\\campera.png"
+    },
+    {
+      "Id": "C:\\Users\\TEMP.VALEN.000\\source\\repos\\drippinlab2\\Drippin\\wwwroot\\images\\creeper.png",
+      "PackagePath": "staticwebassets\\images\\creeper.png"
+    },
+    {
+      "Id": "C:\\Users\\TEMP.VALEN.000\\source\\repos\\drippinlab2\\Drippin\\wwwroot\\images\\dedb45a9-f0b8-4193-a4b5-8912737a1a2f.png",
+      "PackagePath": "staticwebassets\\images\\dedb45a9-f0b8-4193-a4b5-8912737a1a2f.png"
+    },
+    {
+      "Id": "C:\\Users\\TEMP.VALEN.000\\source\\repos\\drippinlab2\\Drippin\\wwwroot\\images\\e98e2834-e081-4a89-ab83-e6a27328fa08.jpg",
+      "PackagePath": "staticwebassets\\images\\e98e2834-e081-4a89-ab83-e6a27328fa08.jpg"
+    },
+    {
+      "Id": "C:\\Users\\TEMP.VALEN.000\\source\\repos\\drippinlab2\\Drippin\\wwwroot\\images\\ejemplo1.jpg",
+      "PackagePath": "staticwebassets\\images\\ejemplo1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\TEMP.VALEN.000\\source\\repos\\drippinlab2\\Drippin\\wwwroot\\images\\ejemplo2.jpg",
+      "PackagePath": "staticwebassets\\images\\ejemplo2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\TEMP.VALEN.000\\source\\repos\\drippinlab2\\Drippin\\wwwroot\\images\\ejemplo3.jpg",
+      "PackagePath": "staticwebassets\\images\\ejemplo3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\TEMP.VALEN.000\\source\\repos\\drippinlab2\\Drippin\\wwwroot\\images\\ejemplo4.jpg",
+      "PackagePath": "staticwebassets\\images\\ejemplo4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\TEMP.VALEN.000\\source\\repos\\drippinlab2\\Drippin\\wwwroot\\images\\mochila1 (1).png",
+      "PackagePath": "staticwebassets\\images\\mochila1 (1).png"
+    },
+    {
+      "Id": "C:\\Users\\TEMP.VALEN.000\\source\\repos\\drippinlab2\\Drippin\\wwwroot\\images\\mochila1 (2).png",
+      "PackagePath": "staticwebassets\\images\\mochila1 (2).png"
+    },
+    {
+      "Id": "C:\\Users\\TEMP.VALEN.000\\source\\repos\\drippinlab2\\Drippin\\wwwroot\\images\\mochila1 (3).png",
+      "PackagePath": "staticwebassets\\images\\mochila1 (3).png"
+    },
+    {
+      "Id": "C:\\Users\\TEMP.VALEN.000\\source\\repos\\drippinlab2\\Drippin\\wwwroot\\images\\remeranegra.png",
+      "PackagePath": "staticwebassets\\images\\remeranegra.png"
+    },
+    {
+      "Id": "C:\\Users\\TEMP.VALEN.000\\source\\repos\\drippinlab2\\Drippin\\wwwroot\\images\\slenderman.png",
+      "PackagePath": "staticwebassets\\images\\slenderman.png"
+    },
+    {
+      "Id": "C:\\Users\\TEMP.VALEN.000\\source\\repos\\drippinlab2\\Drippin\\wwwroot\\images\\tree.jpg",
+      "PackagePath": "staticwebassets\\images\\tree.jpg"
+    },
+    {
+      "Id": "C:\\Users\\TEMP.VALEN.000\\source\\repos\\drippinlab2\\Drippin\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\TEMP.VALEN.000\\source\\repos\\drippinlab2\\Drippin\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\TEMP.VALEN.000\\source\\repos\\drippinlab2\\Drippin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\TEMP.VALEN.000\\source\\repos\\drippinlab2\\Drippin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\TEMP.VALEN.000\\source\\repos\\drippinlab2\\Drippin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\TEMP.VALEN.000\\source\\repos\\drippinlab2\\Drippin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\TEMP.VALEN.000\\source\\repos\\drippinlab2\\Drippin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\TEMP.VALEN.000\\source\\repos\\drippinlab2\\Drippin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\TEMP.VALEN.000\\source\\repos\\drippinlab2\\Drippin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\TEMP.VALEN.000\\source\\repos\\drippinlab2\\Drippin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\TEMP.VALEN.000\\source\\repos\\drippinlab2\\Drippin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\TEMP.VALEN.000\\source\\repos\\drippinlab2\\Drippin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\TEMP.VALEN.000\\source\\repos\\drippinlab2\\Drippin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\TEMP.VALEN.000\\source\\repos\\drippinlab2\\Drippin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\TEMP.VALEN.000\\source\\repos\\drippinlab2\\Drippin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\TEMP.VALEN.000\\source\\repos\\drippinlab2\\Drippin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\TEMP.VALEN.000\\source\\repos\\drippinlab2\\Drippin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\TEMP.VALEN.000\\source\\repos\\drippinlab2\\Drippin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\TEMP.VALEN.000\\source\\repos\\drippinlab2\\Drippin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\TEMP.VALEN.000\\source\\repos\\drippinlab2\\Drippin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\TEMP.VALEN.000\\source\\repos\\drippinlab2\\Drippin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\TEMP.VALEN.000\\source\\repos\\drippinlab2\\Drippin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\TEMP.VALEN.000\\source\\repos\\drippinlab2\\Drippin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\TEMP.VALEN.000\\source\\repos\\drippinlab2\\Drippin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\TEMP.VALEN.000\\source\\repos\\drippinlab2\\Drippin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\TEMP.VALEN.000\\source\\repos\\drippinlab2\\Drippin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\TEMP.VALEN.000\\source\\repos\\drippinlab2\\Drippin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\TEMP.VALEN.000\\source\\repos\\drippinlab2\\Drippin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\TEMP.VALEN.000\\source\\repos\\drippinlab2\\Drippin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\TEMP.VALEN.000\\source\\repos\\drippinlab2\\Drippin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\TEMP.VALEN.000\\source\\repos\\drippinlab2\\Drippin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\TEMP.VALEN.000\\source\\repos\\drippinlab2\\Drippin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\TEMP.VALEN.000\\source\\repos\\drippinlab2\\Drippin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\TEMP.VALEN.000\\source\\repos\\drippinlab2\\Drippin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\TEMP.VALEN.000\\source\\repos\\drippinlab2\\Drippin\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\TEMP.VALEN.000\\source\\repos\\drippinlab2\\Drippin\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\TEMP.VALEN.000\\source\\repos\\drippinlab2\\Drippin\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\TEMP.VALEN.000\\source\\repos\\drippinlab2\\Drippin\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\TEMP.VALEN.000\\source\\repos\\drippinlab2\\Drippin\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\TEMP.VALEN.000\\source\\repos\\drippinlab2\\Drippin\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\TEMP.VALEN.000\\source\\repos\\drippinlab2\\Drippin\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\TEMP.VALEN.000\\source\\repos\\drippinlab2\\Drippin\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\TEMP.VALEN.000\\source\\repos\\drippinlab2\\Drippin\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\TEMP.VALEN.000\\source\\repos\\drippinlab2\\Drippin\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\TEMP.VALEN.000\\source\\repos\\drippinlab2\\Drippin\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\TEMP.VALEN.000\\source\\repos\\drippinlab2\\Drippin\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\TEMP.VALEN.000\\source\\repos\\drippinlab2\\Drippin\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\TEMP.VALEN.000\\source\\repos\\drippinlab2\\Drippin\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\TEMP.VALEN.000\\source\\repos\\drippinlab2\\Drippin\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\TEMP.VALEN.000\\source\\repos\\drippinlab2\\Drippin\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\TEMP.VALEN.000\\source\\repos\\drippinlab2\\Drippin\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\TEMP.VALEN.000\\source\\repos\\drippinlab2\\Drippin\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\TEMP.VALEN.000\\source\\repos\\drippinlab2\\Drippin\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\TEMP.VALEN.000\\source\\repos\\drippinlab2\\Drippin\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\TEMP.VALEN.000\\source\\repos\\drippinlab2\\Drippin\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\TEMP.VALEN.000\\source\\repos\\drippinlab2\\Drippin\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\TEMP.VALEN.000\\source\\repos\\drippinlab2\\Drippin\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\TEMP.VALEN.000\\source\\repos\\drippinlab2\\Drippin\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Drippin.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Drippin.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Drippin.props",
+      "PackagePath": "build\\Drippin.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Drippin.props",
+      "PackagePath": "buildMultiTargeting\\Drippin.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Drippin.props",
+      "PackagePath": "buildTransitive\\Drippin.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
