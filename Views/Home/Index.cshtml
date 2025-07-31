@@ -1,0 +1,116 @@
+﻿@model Drippin.Models.Producto
+@{
+    ViewData["Title"] = "";
+    var productos = ViewBag.Productos as List<Drippin.Models.Producto>;
+}
+
+<link rel="stylesheet" href="~/css/site.css" />
+
+<!-- Swiper CSS -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper/swiper-bundle.min.css" />
+<script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
+<link rel="stylesheet" href="~/css/swiper.css" />
+
+
+<body>
+
+    <!-- PRODUCTO DESTACADO -->
+    <!-- Contenedor principal del producto destacado -->
+    <div class="contenedor-destacado">
+        
+        <!-- Swiper para imágenes del producto -->
+        <div class="swiper swiper-destacado">
+            
+            <div class="swiper-wrapper">
+
+                <!-- Slides dinámicos (reemplazar con tus imágenes reales) -->
+                @if (!string.IsNullOrEmpty(Model.proImagen))
+                {
+                    <div class="swiper-slide">
+                        <img src="@Url.Content(Model.proImagen)" alt="Producto destacado">
+                    </div>
+                }
+                @if (!string.IsNullOrEmpty(Model.proImagen2))
+                {
+                    <div class="swiper-slide">
+                        <img src="@Url.Content(Model.proImagen2)" alt="Producto destacado">
+                    </div>
+                }
+                @if (!string.IsNullOrEmpty(Model.proImagen3))
+                {
+                    <div class="swiper-slide">
+                        <img src="@Url.Content(Model.proImagen3)" alt="Producto destacado">
+                    </div>
+                }
+                @if (!string.IsNullOrEmpty(Model.proImagen4))
+                {
+                <div class="swiper-slide">
+                    <img src="@Url.Content(Model.proImagen4)" alt="Producto destacado">
+                </div>
+                }
+
+            </div>
+
+            <!-- Controles de navegación -->
+            <div class="swiper-button-prev"></div>
+            <div class="swiper-button-next"></div>
+            <div class="swiper-pagination"></div>
+        </div>
+
+        <!-- Información del producto (fuera del contenedor swiper) -->
+        <div class="info-producto">
+            <h1 class="titulo-producto">@Model.proNombre.ToUpper()</h1>
+            <div class="precio">$@Model.proPrecio.ToString("N2")</div>
+            <div class="descripcion">
+                <p>Este es el producto destacado de la semana.</p>
+                <p>Ancho: 9 cm<br />Alto: 9.5 cm</p>
+            </div>
+            <!-- Botón de contacto (modificado para contacto) -->
+            <a href="mailto:contacto@tutienda.com?subject=Consulta sobre @Model.proNombre" class="boton-contacto">
+                Consultar disponibilidad
+            </a>
+        </div>
+    </div>
+
+    <!-- SWIPER JS SCRIPT -->
+
+    <script>
+
+                const swiper = new Swiper('.swiper-destacado', {
+          // Optional parameters
+          direction: 'horizontal',
+          slidesPerView: 1,
+          spaceBetween: 10,
+          loop: true,
+
+          // If we need pagination
+          pagination: {
+            el: '.swiper-pagination',
+          },
+
+          // Navigation arrows
+          navigation: {
+            nextEl: '.swiper-button-next',
+            prevEl: '.swiper-button-prev',
+          },
+
+          // And if we need scrollbar
+          scrollbar: {
+            el: '.swiper-scrollbar',
+          },
+
+          breakpoints: {
+              600: {
+                  slidesPerView: 2,
+                  spaceBetween: 10,
+              },
+
+          },
+                    
+        });
+
+    </script>
+
+    <!--////////////////////////////////////////////////////-->
+
+</body>

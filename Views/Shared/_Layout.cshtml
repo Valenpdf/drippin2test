@@ -1,0 +1,143 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - Proyecto</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/ActividadModulo3.styles.css" asp-append-version="true" />
+
+    <style>
+        /* Header/Barra de navegación */
+        #main-header {
+            position: fixed;
+            top: 0;
+            width: 100%;
+            background-color: #000;
+            transition: padding 0.3s ease;      /* transición para que al cambiar de tamaño lo haga con una animación que dure cierto tiempo */
+            z-index: 1000;
+            padding: 20px 0;
+            box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+        }
+
+        #titulo-header {
+            font-size: 2.5rem;
+            transition: font-size 0.5s ease;
+        }
+
+        .header-small #main-header {            /* Cuando "header-small" esté dentro de "main-header (el script lo mete
+                                                   al scrollear) se aplique el padding al header, haciéndolo 10 px más pequeño */
+            padding: 10px 0;
+        }
+
+        .header-small #titulo-header {          /* Si "titulo-header" está dentro de un elemento con la clase header-small
+                                                   cambia su tamaño a 1.5rem                                             */
+            font-size: 1.5rem;
+        }
+
+        .contenido {
+            padding-top: 120px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <nav id="main-header" class="navbar navbar-expand-sm navbar-toggleable-sm navbar-dark border-bottom box-shadow mb-3"
+             style="background-color: #800040">
+
+
+            @* Contenedor flexible con espacio entre elementos y centrado vertical *@
+            <div class="container-fluid d-flex justify-content-between align-items-center">
+
+                <!-- 🔗 Enlaces a la izquierda -->
+                <div class="d-flex">
+                    <ul class="navbar-nav flex-row">
+                        @* flex-row para que los elementos se alineen en fila*@
+
+                        @*   ///   ///              Enlace a Usuarios                   ///  *@
+                        <li class="nav-item me-3">
+                            @* me-3: margen a la derecha*@
+                            <a class="nav-link text-white" asp-controller="Usuarios" asp-action="Index">Usuarios</a>
+                        </li>
+
+                        @*   ///   ///              Enlace a Roles                     ///  *@
+                        <li class="nav-item">
+                            <a class="nav-link text-white" asp-controller="Roles" asp-action="Index">Roles</a>
+                        </li>
+                    </ul>
+                </div>
+
+                <!-- Título centrado -->
+                <div class="mx-auto text-center" id="titulo-container">
+                    <h1 id="titulo-header" class="text-white header-title m-0">DRIPPIN</h1>           @* m-0 elimina el margen por defecto del h1     *@
+                </div>
+
+
+
+                <!-- 🔗 Enlaces a la derecha -->
+                <div class="d-flex">
+                    <ul class="navbar-nav flex-row">
+
+                        @*   ///   ///              Enlace a Home                      ///  *@
+                        <li class="nav-item me-3">
+                            <a class="nav-link text-white" asp-controller="Home" asp-action="Index">Home</a>
+                        </li>
+
+                        @*   ///   ///              Enlace a Privacy                   ///  *@
+                        <li class="nav-item">
+                            <a class="nav-link text-white" asp-controller="Home" asp-action="Privacy">Privacy</a>
+                        </li>
+                    </ul>
+                </div>
+
+            </div>
+        </nav>
+
+    </header>
+    <div class="container contenido">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+
+    @* <footer class="border-top footer text-muted">
+        <div class="container">
+            &copy; 2025 - ActividadModulo3 - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+        </div>
+    </footer> *@
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+
+
+
+    @* // APLICA CLASE QUE ACTIVA ESTILO EN: .header-small #main-header // *@ 
+    <script>
+
+        window.addEventListener("scroll", function () {                             // Detecta cuando se hace scroll //
+            const body = document.body;                                             // document.body es todo lo que está dentro de <body>
+            const html = document.documentElement;                                  // document.documentElement es todo lo que está dentro de <html>
+            const scrolled = window.scrollY    ||                                   /* Cuantos pixeles se scrolleó */
+                             html.scrollTop    ||                                   /* Cuanto se desplazó <html> verticalmente */
+                             body.scrollTop;                                      /* Cuanto se desplazó <body> */
+
+
+            /* Si se scrolleó más de 50 pixeles... */
+            if (scrolled > 50) {
+
+                // Agrega la clase 'header-small' al <body>
+                // Esto activa los estilos que achican el header y el título
+                document.body.classList.add("header-small");                        // header-small es un efecto que viene con javascript
+
+            } else {
+
+                // Si se vuelve hacia arriba, se remueve la clase y el header vuelve a su tamaño original
+                document.body.classList.remove("header-small");
+
+            }
+        });
+    </script>
+</body>
+</html>

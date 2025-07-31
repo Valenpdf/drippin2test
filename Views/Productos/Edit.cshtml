@@ -1,0 +1,84 @@
+﻿@model Drippin.Models.Producto
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<h1>Edit</h1>
+
+<h4>Producto</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Edit">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="proId" />
+
+            <div class="form-group">
+                <label asp-for="proNombre" class="control-label"></label>
+                <input asp-for="proNombre" class="form-control" />
+                <span asp-validation-for="proNombre" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="proPrecio" class="control-label"></label>
+                <input asp-for="proPrecio" class="form-control" />
+                <span asp-validation-for="proPrecio" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="proImagen" class="control-label"></label>
+                <input asp-for="proImagen" class="form-control" />
+                <span asp-validation-for="proImagen" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="proImagen2" class="control-label"></label>
+                <input asp-for="proImagen2" class="form-control" />
+                <span asp-validation-for="proImagen2" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="proImagen3" class="control-label"></label>
+                <input asp-for="proImagen3" class="form-control" />
+                <span asp-validation-for="proImagen3" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="proImagen4" class="control-label"></label>
+                <input asp-for="proImagen4" class="form-control" />
+                <span asp-validation-for="proImagen4" class="text-danger"></span>
+            </div>
+
+            <div class="form-group form-check">
+                <label class="form-check-label">
+                    <input class="form-check-input" asp-for="Disponible" /> @Html.DisplayNameFor(model => model.Disponible)
+                </label>
+            </div>
+            
+            <div class="form-group form-check">
+                <input asp-for="EsDestacado" class="form-check-input" />
+                <label asp-for="EsDestacado" class="form-check-label"></label>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="prodCreacion" class="control-label"></label>
+                <input asp-for="prodCreacion" class="form-control" />
+                <span asp-validation-for="prodCreacion" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" />
+            </div>
+
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
